@@ -46,7 +46,7 @@ The params file should have the following data structure:
 Creating the Stack
 ------------
 ```sh
-aws cloudformation create-stack --stack-name wyncode-devops-vpc --template-body file://vpc.json --parameters file://vpc-params.json --profile PROFILENAME
+aws cloudformation create-stack --stack-name wyncode-devops-vpc --template-body file://vpc.json --parameters file://vpc-params.json --profile wyncode-devops
 ```
 
 Author Information
