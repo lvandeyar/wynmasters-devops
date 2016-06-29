@@ -1,0 +1,7 @@
+[{
+  "ParameterKey": "SubnetAZ1",
+  "ParameterValue": "us-east-1d"
+}, {
+  "ParameterKey": "SubnetAZ2",
+  "ParameterValue": "us-east-1e"
+}]
